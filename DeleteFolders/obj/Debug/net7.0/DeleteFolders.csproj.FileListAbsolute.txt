@@ -1,0 +1,17 @@
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\DeleteFolders\DeleteFolders\bin\Debug\net7.0\DeleteFolders.exe
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\DeleteFolders\DeleteFolders\bin\Debug\net7.0\DeleteFolders.deps.json
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\DeleteFolders\DeleteFolders\bin\Debug\net7.0\DeleteFolders.runtimeconfig.json
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\DeleteFolders\DeleteFolders\bin\Debug\net7.0\DeleteFolders.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\DeleteFolders\DeleteFolders\bin\Debug\net7.0\DeleteFolders.pdb
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\DeleteFolders\DeleteFolders\bin\Debug\net7.0\System.CommandLine.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\DeleteFolders\DeleteFolders\obj\Debug\net7.0\DeleteFolders.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\DeleteFolders\DeleteFolders\obj\Debug\net7.0\DeleteFolders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\DeleteFolders\DeleteFolders\obj\Debug\net7.0\DeleteFolders.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\DeleteFolders\DeleteFolders\obj\Debug\net7.0\DeleteFolders.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\DeleteFolders\DeleteFolders\obj\Debug\net7.0\DeleteFolders.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\DeleteFolders\DeleteFolders\obj\Debug\net7.0\DeleteFolders.csproj.CopyComplete
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\DeleteFolders\DeleteFolders\obj\Debug\net7.0\DeleteFolders.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\DeleteFolders\DeleteFolders\obj\Debug\net7.0\refint\DeleteFolders.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\DeleteFolders\DeleteFolders\obj\Debug\net7.0\DeleteFolders.pdb
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\DeleteFolders\DeleteFolders\obj\Debug\net7.0\DeleteFolders.genruntimeconfig.cache
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\DeleteFolders\DeleteFolders\obj\Debug\net7.0\ref\DeleteFolders.dll
