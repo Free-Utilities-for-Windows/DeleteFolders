@@ -11,3 +11,6 @@ DeleteFolders (folder zapper) is a simple C# command-line utility that deletes a
     .\DeleteFolders.exe --folder "C:\Example\" --recursive true
     ```
 
+## Author
+
+Bohdan Harabadzhyu
